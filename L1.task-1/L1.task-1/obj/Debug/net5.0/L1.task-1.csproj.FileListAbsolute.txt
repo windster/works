@@ -1,0 +1,16 @@
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.exe
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.deps.json
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.runtimeconfig.json
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.runtimeconfig.dev.json
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.dll
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\ref\L1.task-1.dll
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\bin\Debug\net5.0\L1.task-1.pdb
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.csproj.AssemblyReference.cache
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.AssemblyInfoInputs.cache
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.AssemblyInfo.cs
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.csproj.CoreCompileInputs.cache
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.dll
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\ref\L1.task-1.dll
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.pdb
+D:\programs\Microsoft Visual Studio\source\repos\L1.task-1\L1.task-1\obj\Debug\net5.0\L1.task-1.genruntimeconfig.cache
