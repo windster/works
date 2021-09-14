@@ -1,0 +1,32 @@
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2.deps.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2.runtimeconfig.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2.runtimeconfig.dev.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/ref/var2.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/bin/Debug/net5.0/var2.pdb
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.csproj.AssemblyReference.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.AssemblyInfoInputs.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.AssemblyInfo.cs
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.csproj.CoreCompileInputs.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/ref/var2.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.pdb
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 1/var2/obj/Debug/net5.0/var2.genruntimeconfig.cache
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.exe
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.deps.json
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.runtimeconfig.json
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.runtimeconfig.dev.json
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.dll
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\ref\var2.dll
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\bin\Debug\net5.0\var2.pdb
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.csproj.AssemblyReference.cache
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.AssemblyInfoInputs.cache
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.AssemblyInfo.cs
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.csproj.CoreCompileInputs.cache
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.dll
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\ref\var2.dll
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.pdb
+C:\Users\HarekD\Desktop\labs\cs\lab 1\var2\obj\Debug\net5.0\var2.genruntimeconfig.cache

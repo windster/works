@@ -1,0 +1,16 @@
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9.deps.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9.runtimeconfig.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9.runtimeconfig.dev.json
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/ref/var9.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/bin/Debug/net5.0/var9.pdb
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.csproj.AssemblyReference.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.GeneratedMSBuildEditorConfig.editorconfig
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.AssemblyInfoInputs.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.AssemblyInfo.cs
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.csproj.CoreCompileInputs.cache
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/ref/var9.dll
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.pdb
+/home/rush/git/freelance/Dimon 13.09.21/cs/lab 2/var9/obj/Debug/net5.0/var9.genruntimeconfig.cache
